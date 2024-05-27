@@ -1,3 +1,0 @@
-# UAS-SISTEMOPERASI
-
-tes
