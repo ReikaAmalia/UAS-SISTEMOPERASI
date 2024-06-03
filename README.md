@@ -14,6 +14,6 @@
 |  |  |  |
 |--|--|--|
 |**No**| **Fitur** | **Detail** |
-| 1 | Konfigurasi Alamat IP (ifconfig)  ***ifconfig*** |
-| 2 | Konfigurasi Alamat IP (ip)  ***ip*** |
-| 3 | Konfigurasi DNS (nmcli)  ***nmcli*** |
+| 1 | Konfigurasi Alamat IP (ifconfig) | konfigurasi alamat IP   ***ifconfig*** |
+| 2 | Konfigurasi Alamat IP (ip) | Konfigurasi Alamat IP ***ip*** |
+| 3 | Konfigurasi DNS (nmcli) |	Konfigurasi DNS ***nmcli*** |
